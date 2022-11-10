@@ -4,14 +4,33 @@
 
 > Aqui ficam os arquivos de apoio da sua aula
 
- ---
+ 
  
  ### Tipos de Arquivo
  - html (.html)
  - javascript (.js)
  - typescript (.ts)
 
- ### Grupo 2
+UMA MUDANÇA QUALQUER ;)
+=======
+
+
+### Tipos de Arquivo
+
+- html (.html)
+- javascript (.js)
+- typescript (.ts)
+
+
+### Fork Github
+
+- Fork
+- Clone
+- Alteração
+
+
+
+### Grupo 2 - Treinando GIT & GITHUB
 
 -- Carolina
 -- Edvaldo
@@ -22,4 +41,5 @@
 -- Renato
 -- Renato
 
-###
+
+
