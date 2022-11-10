@@ -8,3 +8,14 @@
  - html (.html)
  - javascript (.js)
  - typescript (.ts)
+
+ ### Grupo 2
+
+-- Carolina
+-- Edvaldo
+-- Kaue
+-- Guilherme
+-- Gustavo
+-- Matheus
+-- Renato
+-- Renato
